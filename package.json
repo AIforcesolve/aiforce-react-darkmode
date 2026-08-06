@@ -2,6 +2,7 @@
   "name": "react-darkmode",
   "scripts": {
     "build": "echo ok",
-    "test:darkmode": "node --test test.js"
+    "test:darkmode": "node --test test.js",
+    "start": "node index.js"
   }
 }
